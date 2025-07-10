@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech Stack en los que trabajo  
 <table><tr><td valign="top" width="33%">
 
 
