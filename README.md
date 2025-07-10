@@ -1,8 +1,6 @@
 # Hola 👋, soy Kevin Castro
 
-### Un desarrollador full stack de Argentina
-
-### <div align="center">Hola Me llamo Kevin </div>  
+### Soy desarrollador full stack de Argentina
   
 
 - 🔭 Actualmente trabajo en mejorar [Mi portafolio personal](https://portafolio3-95zh.vercel.app/)  
