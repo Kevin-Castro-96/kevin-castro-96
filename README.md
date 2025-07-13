@@ -19,7 +19,7 @@
 
 
 ## Tech Stack en los que trabajo  
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="100%">
 
 
 
