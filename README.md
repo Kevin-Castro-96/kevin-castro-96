@@ -6,7 +6,7 @@
 - 🔭 Actualmente trabajo en mejorar [Mi portafolio personal](https://portafolio3-95zh.vercel.app/)  
   
 
-- Amante de los gatos
+- 🐈 Amante de los gatos
   
 
 - ❓ Preguntame sobre el stack MERN   
