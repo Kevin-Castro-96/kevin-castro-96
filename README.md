@@ -12,7 +12,7 @@
 - ❓ Preguntame sobre el stack MERN   
   
 
-- ⚡puedo crear tu sitio web para vender y ganar dinero.  
+- 💵 puedo crear tu sitio web para vender y ganar dinero.  
   
 
 <br/>  
