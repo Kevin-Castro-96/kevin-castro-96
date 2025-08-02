@@ -87,8 +87,8 @@
 <a href="https://www.youtube.com/@practicandoprogramacion2022" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Kevin-Castro-96" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://portafolio3-95zh.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portafolio" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
