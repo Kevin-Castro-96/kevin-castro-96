@@ -16,9 +16,6 @@
   
 
 <br/>  
-
-
-##  🚀 Tech Stack en los que trabajo
 ## 🚀 Tech Stack en los que trabajo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; widht: 1200px">
@@ -49,11 +46,7 @@
    <strong>Adobe Illustrator</strong>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
 
-
-
 </div>
-
-
 
 
 ###
@@ -62,7 +55,7 @@
 
 
 ## Mis redes sociales   
-<div align="center">
+<div align="start">
 <a href="https://www.linkedin.com/in/kevin-castro-b12357214/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
