@@ -19,6 +19,7 @@
 ###
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <br/>
+<br/>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -44,13 +45,13 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
   <br/>
  Ademas he Trabajado tambien con los siguientes Techstack: <br/>
 <br/>
+<br/>
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
     <strong>WordPress</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="WordPress azul" />
     <strong>Firebase</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-
 </div>
 
 ###
