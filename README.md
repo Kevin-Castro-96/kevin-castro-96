@@ -17,54 +17,41 @@
 
 ## 🚀 Tech Stack en los que trabajo
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
-
-<table>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/></td>
-    <td><strong>TypeScript</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>React</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/></td>
-    <td><strong>Node.js</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>Tailwind CSS</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30"/></td>
-    <td><strong>HTML</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>CSS</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/></td>
-    <td><strong>Figma</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/></td>
-  </tr>
-  <tr>
-    <td><strong>MongoDB</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/></td>
-    <td><strong>PostgreSQL</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/></td>
-  </tr>
-</table>
-
 <br/>
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <strong style="padding:100px" >JavaScript</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />&nbsp
+    <strong>TypeScript</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />&nbsp
+    <strong>React</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+    <strong>Node.js</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+    <strong>Tailwind CSS</strong>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" />
+    <strong>HTML</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+    <strong>CSS</strong>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+    <strong>Figma</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+    <strong>MongoDB</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+    <strong>PostgreSQL</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+    <br/>
+  <br/>
 **Además, he trabajado también con los siguientes tech stack:**
+  <br/>
+<br/>
+<strong>Adobe Illustrator</strong>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
+    <strong>WordPress</strong>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="30" alt="WordPress azul" />
+    <strong>Firebase</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+</div>
 
-<table>
-  <tr>
-    <td><strong>Adobe Illustrator</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" /></td>
-    <td><strong>WordPress</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="30" /></td>
-    <td><strong>Firebase</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/></td>
-  </tr>
-</table>
 
 
 ## Redes Sociales
