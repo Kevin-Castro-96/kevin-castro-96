@@ -17,8 +17,7 @@
 
 ### 🚀 Tech Stack en los que trabajo
 
-
-
+###
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
