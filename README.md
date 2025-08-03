@@ -22,23 +22,23 @@
 ## 🚀 Tech Stack en los que trabajo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; widht: 1200px">
-    <strong>JavaScript</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-     <strong>TypeScript</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-     <strong>React</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-     <strong>Node.js</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-     <strong>Tailwind CSS</strong>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" />
-      <strong>HTML</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-     <strong>CSS</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-     <strong>Firebase</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-   <strong>Figma</strong>
+    <strong style="padding: 0px 20px">JavaScript</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+     <strong style="padding: 0px 20px">TypeScript</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+     <strong style="padding: 0px 20px">React</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+     <strong style="padding: 0px 20px">Node.js</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+     <strong style="padding: 0px 20px">Tailwind CSS</strong>
+    <img style="padding: 0px 20px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" />
+      <strong style="padding: 0px 20px">HTML</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+     <strong style="padding: 0px 20px">CSS</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+     <strong style="padding: 0px 20px">Firebase</strong>
+    <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+   <strong style="padding: 0px 20px">Figma</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
      <strong>WordPress</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" />
