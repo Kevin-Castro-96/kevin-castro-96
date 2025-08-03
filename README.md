@@ -18,13 +18,9 @@
 <br/>  
 
 
-## Tech Stack en los que trabajo 
+##  🚀 Tech Stack en los que trabajo
 
-## 🚀 Tech Stack en los que trabajo
 
-## 🚀 Tech Stack en los que trabajo
-
-## 🚀 Tech Stack en los que trabajo
 
 <p>
   <strong>JavaScript</strong>  
