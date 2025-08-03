@@ -18,6 +18,7 @@
 ## 🚀 Tech Stack en los que trabajo
 ###
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
+<br/>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -65,7 +66,7 @@ Enviame un mensaje por LinkedIn o en el formulario de mi portafolio
 </a>
 <a href="https://portafolio3-95zh.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portafolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portafolio" style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div>  
   
 
