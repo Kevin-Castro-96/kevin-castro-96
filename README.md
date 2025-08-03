@@ -41,7 +41,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
   <br/>
-### Ademas he Trabajado tambien con los siguientes Techstack: <br/>
+- Ademas he Trabajado tambien con los siguientes Techstack: <br/>
 <br/>
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
@@ -51,7 +51,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
 </div>
 
-###
 
 <br/>  
 
