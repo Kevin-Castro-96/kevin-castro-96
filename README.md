@@ -41,9 +41,9 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
-<p></p>
+  <br/>
  Ademas he Trabajado tambien con los siguientes Techstack: <br/>
- <p></p>
+<br/>
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
     <strong>WordPress</strong>
