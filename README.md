@@ -22,7 +22,7 @@
 ## 🚀 Tech Stack en los que trabajo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; widht: 1200px">
-    <strong style="padding: 0px 20px">JavaScript</strong>
+    <strong style="padding: 40px 20px">JavaScript</strong>
     <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
      <strong style="padding: 0px 20px">TypeScript</strong>
     <img style="padding: 0px 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
