@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack en los que trabajo
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
-<br/>
+
 <table>
   <tr>
     <td><strong>JavaScript</strong></td>
@@ -66,7 +66,6 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
   </tr>
 </table>
 
-<br/>  
 
 ## Redes Sociales
 Enviame un mensaje por LinkedIn o en el formulario de mi portafolio
