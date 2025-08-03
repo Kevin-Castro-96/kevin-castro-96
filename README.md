@@ -15,11 +15,9 @@
 - 💵 puedo crear tu sitio web para vender y ganar dinero.  
   
 
-### 🚀 Tech Stack en los que trabajo
+# 🚀 Tech Stack en los que trabajo
 
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+###<div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
     <strong>TypeScript</strong>
