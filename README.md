@@ -21,7 +21,7 @@
 ##  🚀 Tech Stack en los que trabajo
 ## 🚀 Tech Stack en los que trabajo
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
     <strong>JavaScript</strong>
