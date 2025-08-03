@@ -26,6 +26,8 @@
   <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
     <strong>JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+    <strong>TypeScript</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   </div>
 
   <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
