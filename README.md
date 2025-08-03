@@ -3,7 +3,9 @@
 ### Soy desarrollador full stack de Argentina
   
 
-- 🔭 Actualmente trabajo en mejorar [Mi portafolio personal](https://portafolio3-95zh.vercel.app/)  
+- 🔭 Actualmente trabajo en mejorar [Mi portafolio personal](https://portafolio3-95zh.vercel.app/)
+
+- Especializado en el area Frontend
   
 
 - 🐈 Amante de los gatos
