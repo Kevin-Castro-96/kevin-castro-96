@@ -19,7 +19,7 @@
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <br/>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <strong >JavaScript</strong>
+    <strong style="padding:30px" >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />&nbsp
     <strong>TypeScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />&nbsp
