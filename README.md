@@ -48,7 +48,6 @@
   
 **Además, he trabajado también con los siguientes tech stack:**
 
-<br/>
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
     <strong>WordPress</strong>
