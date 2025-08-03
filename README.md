@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajo en mejorar [Mi portafolio personal](https://portafolio3-95zh.vercel.app/)
 
-- Especializado en el area Frontend
+- 🖼️ Especializado en el area Frontend
   
 
 - 🐈 Amante de los gatos
