@@ -40,6 +40,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
+  <br/>
   
 **Además, he trabajado también con los siguientes tech stack:**
 
