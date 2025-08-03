@@ -21,136 +21,72 @@
 ##  🚀 Tech Stack en los que trabajo
 
 
+## 🚀 Tech Stack en los que trabajo
 
-<p>
-  <strong>JavaScript</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p>
-  <strong>TypeScript</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>JavaScript</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  </div>
 
-<p>
-  <strong>React</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>TypeScript</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  </div>
 
-<p>
-  <strong>Next.js</strong>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" style="background-color: white; padding: 3px; border-radius: 4px;" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>React</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  </div>
 
-<p>
-  <strong>Node.js</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Next.js</strong>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" style="background-color: white; padding: 2px; border-radius: 4px;" />
+  </div>
 
-<p>
-  <strong>Jest</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" style="filter: invert(1);" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Node.js</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  </div>
 
-<p>
-  <strong>Tailwind CSS</strong>  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Tailwind</strong>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="TailwindCSS"/>
+  </div>
 
-<p>
-  <strong>Bootstrap</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>HTML</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  </div>
 
-<p>
-  <strong>HTML5</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>CSS</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  </div>
 
-<p>
-  <strong>CSS3</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Firebase</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase"/>
+  </div>
 
-<p>
-  <strong>MySQL</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>GitHub</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" style="filter: invert(1);" />
+  </div>
 
-<p>
-  <strong>PostgreSQL</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Figma</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
+  </div>
 
-<p>
-  <strong>MongoDB</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <strong>WordPress</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress"/>
+  </div>
 
-<p>
-  <strong>Firebase</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-</p>
+</div>
 
-<p>
-  <strong>AWS</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
-</p>
-
-<p>
-  <strong>Git</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</p>
-
-<p>
-  <strong>GitHub</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" style="filter: invert(1);" />
-</p>
-
-<p>
-  <strong>NPM</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" style="background-color: white; padding: 2px; border-radius: 4px;" />
-</p>
-
-<p>
-  <strong>WordPress</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress" />
-</p>
-
-<p>
-  <strong>VS Code</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-</p>
-
-<p>
-  <strong>Figma</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-</p>
-
-<p>
-  <strong>Canva</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
-</p>
-
-<p>
-  <strong>Illustrator</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator" />
-</p>
-
-<p>
-  <strong>GIMP</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="GIMP" />
-</p>
-
-<p>
-  <strong>Trello</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="Trello" />
-</p>
-
-<p>
-  <strong>Slack</strong>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />
-</p>
 
 
 
