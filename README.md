@@ -19,6 +19,7 @@
 ###
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <br/>
+&nbsp
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -41,7 +42,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
-
+&nbsp
  Ademas he Trabajado tambien con los siguientes Techstack: <br/>
  &nbsp
 <strong>Adobe Illustrator</strong>
