@@ -43,6 +43,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <br/>
 
  Ademas he Trabajado tambien con los siguientes Techstack: <br/>
+ &nbsp
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
     <strong>WordPress</strong>
