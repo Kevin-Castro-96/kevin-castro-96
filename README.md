@@ -16,8 +16,7 @@
   
 
 ## 🚀 Tech Stack en los que trabajo
-###
-El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
+### El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <br/>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
@@ -42,7 +41,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
   <br/>
- Ademas he Trabajado tambien con los siguientes Techstack: <br/>
+### Ademas he Trabajado tambien con los siguientes Techstack: <br/>
 <br/>
 <strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
