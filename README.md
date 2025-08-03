@@ -20,7 +20,6 @@
 **El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:**
 
 <br/>
-<br/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong style="padding:100px" >JavaScript</strong>
@@ -45,6 +44,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <br/>
   <br/>
+
   
 **Además, he trabajado también con los siguientes tech stack:**
 
