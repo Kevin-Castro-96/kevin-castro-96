@@ -16,7 +16,9 @@
   
 
 ## 🚀 Tech Stack en los que trabajo
-El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
+
+**El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:**
+
 <br/>
 <br/>
 
