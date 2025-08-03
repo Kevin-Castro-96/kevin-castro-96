@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack en los que trabajo
 ###
-El Bootcamp de Henry me ha permitido Experiencia y conocimiento de las siguientes tecnologias:
+El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -32,20 +32,22 @@ El Bootcamp de Henry me ha permitido Experiencia y conocimiento de las siguiente
     <strong>HTML</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
     <strong>CSS</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <strong>Firebase</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
     <strong>Figma</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-    <strong>WordPress</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="WordPress azul" />
     <strong>MongoDB</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-    <strong>Adobe Illustrator</strong>
+    
+
+Ademas he Trabajado tambien con los siguientes Techstack:
+<strong>Adobe Illustrator</strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" />
-  
+    <strong>WordPress</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="WordPress azul" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+    <strong>Firebase</strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
 
 </div>
 
