@@ -18,6 +18,8 @@
 ## 🚀 Tech Stack en los que trabajo
 El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las siguientes tecnologias:
 <br/>
+<br/>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <strong style="padding:100px" >JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />&nbsp
