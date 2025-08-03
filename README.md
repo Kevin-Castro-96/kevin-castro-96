@@ -53,7 +53,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
 </div>
 
-
+<br/>
 
 ## Redes Sociales
 Enviame un mensaje por LinkedIn o en el formulario de mi portafolio
