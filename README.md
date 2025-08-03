@@ -33,7 +33,7 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
   </tr>
   <tr>
     <td><strong>Tailwind CSS</strong></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30"/></td>
     <td><strong>HTML</strong></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/></td>
   </tr>
@@ -58,11 +58,11 @@ El Bootcamp de Henry me ha permitido adquirir experiencia y conocimiento de las 
 <table>
   <tr>
     <td><strong>Adobe Illustrator</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Adobe Illustrator" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" /></td>
     <td><strong>WordPress</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="30" alt="WordPress azul" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="30" /></td>
     <td><strong>Firebase</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/></td>
   </tr>
 </table>
 
