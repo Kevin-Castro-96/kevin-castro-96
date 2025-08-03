@@ -45,7 +45,8 @@
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <strong>Mercado Pago</strong>
-    <img src="https://seeklogo.com/vector-logo/391364/mercado-pago.svg" height="30" alt="Logo Mercado Pago celeste" />
+    <img src="https://www.mercadopago.com.ar/mp/logo-oficial.svg" height="30" alt="Logo Mercado Pago celeste" />
+
 
 
 
