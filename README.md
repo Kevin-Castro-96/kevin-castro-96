@@ -24,66 +24,24 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; widht: 1200px">
     <strong>JavaScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <strong>TypeScript</strong>
+     <strong>TypeScript</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-  
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>TypeScript</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>React</strong>
+     <strong>React</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>Next.js</strong>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="30" style="background: white; padding: 2px; border-radius: 4px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>Node.js</strong>
+     <strong>Node.js</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>Tailwind CSS</strong>
+     <strong>Tailwind CSS</strong>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>HTML</strong>
+      <strong>HTML</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>CSS</strong>
+     <strong>CSS</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>Firebase</strong>
+     <strong>Firebase</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>GitHub</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" style="filter: invert(1);" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>Figma</strong>
+   <strong>Figma</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; min-width: 200px;">
-    <strong>WordPress</strong>
+     <strong>WordPress</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" />
-  </div>
 
 </div>
 
