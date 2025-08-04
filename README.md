@@ -45,7 +45,7 @@
     <strong>PostgreSQL</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
     <strong style="color: white;">Next.js</strong>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" style="filter: invert(100%);" alt="Next.js logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
 
    <br/>
   <br/>
