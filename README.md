@@ -14,7 +14,9 @@
 - ❓ Preguntame sobre el stack MERN   
   
 
-- 💵 puedo crear tu sitio web para vender y ganar dinero.  
+- 💵 puedo crear tu sitio web para vender y ganar dinero.
+
+- Enviame un correo electronico !!! street123castle@gmail.com
   
 
 ## 🚀 Tech Stack en los que trabajo
